@@ -1,5 +1,5 @@
-Processing
-==========
+Processing FX (experiment to run processing in javaFX)
+======================================================
 
 This is the official source code for the [Processing](http://processing.org) Development Environment (PDE), 
 the “core” and the libraries that are included with the [download](http://processing.org/download). 
